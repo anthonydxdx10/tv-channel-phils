@@ -350,9 +350,9 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f856762412b11edb8780242ac120002:7199bc900b9e23087d3a2c0c6d4edce4
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
-
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="logo_url" group-title="Local", buko
 #KODIPROP:inputstreamaddon=inputstream.adaptive
